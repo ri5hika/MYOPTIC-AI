@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4fb4f70a-9340-4d2c-b45d-d7eece80b3de)![image](https://github.com/user-attachments/assets/d0bef046-21d8-4b42-a964-e6e1d36d3b95)# MyOptic AI
+# MyOptic AI
 This is an Artificial Intelligence Driven Multi-Model Framework for Vision Care. It integrates deep learning, machine learning, and natural language processing to provide a comprehensive AI driven Vision Care system. The CNN based analysis enables accurate detection of retinal abnormalities through image processing, while the RFC prediction model offers data driven insights based on numerical parameters. Additionally, the LLM chatbot enhances user engagement by providing interactive consultations and personalized recommendations. By combining these three approaches, this tool aims to assist individuals in monitoring their eye health efficiently, promoting early detection, and encouraging preventive care.
 
 # Overview
